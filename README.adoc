@@ -1,1 +1,1 @@
-Documnetation to Lesson2
+This repository contains tasks for Lesson2
